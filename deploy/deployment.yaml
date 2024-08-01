@@ -19,6 +19,7 @@ spec:
     spec:
       containers:
       - image: us.icr.io/sn-labs-tosinoyewale/accounts:1
+      - image: New
         name: accounts
         resources: {}
 
